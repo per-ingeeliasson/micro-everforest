@@ -4,3 +4,6 @@ Everforest themes for the Micro text editor.
 
 You can find Micro here:
 https://github.com/zyedidia/micro
+
+Everforest color scheme:
+https://github.com/sainnhe/everforest
