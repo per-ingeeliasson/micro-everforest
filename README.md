@@ -5,7 +5,6 @@ Everforest for the Micro text editor.
 
 <img width="1582" alt="Everforest-Dark-Medium" src="https://github.com/user-attachments/assets/9dd4967e-be7f-4925-993e-42936616f669" />
 
-
 Micro text editor: https://github.com/zyedidia/micro
 
 Everforest color scheme: https://github.com/sainnhe/everforest
