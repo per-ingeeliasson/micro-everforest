@@ -1,9 +1,7 @@
 Everforest for the Micro text editor.
 
-<img width="1581" alt="everforest-dark-hard" src="https://github.com/user-attachments/assets/d1cd9bbf-e73f-4925-8974-e7c6500b28d7" />
+<img width="1583" alt="everforest-dark-hard" src="https://github.com/user-attachments/assets/eadc7663-d01d-45c9-80f4-f7ceb03ccdf3" />
 
-Micro text editor:
-https://github.com/zyedidia/micro
+Micro text editor: https://github.com/zyedidia/micro
 
-Everforest color scheme:
-https://github.com/sainnhe/everforest
+Everforest color scheme: https://github.com/sainnhe/everforest
