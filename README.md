@@ -7,3 +7,5 @@ Everforest for the Micro text editor.
 Micro text editor: https://github.com/zyedidia/micro
 
 Everforest color scheme: https://github.com/sainnhe/everforest
+
+Everforest for iTerm2: https://github.com/icewind/everforest.iterm2
