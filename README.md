@@ -1,4 +1,4 @@
-# Micro Everforest colors 🌲🌳🦌
+# Micro Everforest colors 🌲
 Everforest for the Micro text editor.
 
 <img width="1583" alt="Everforest-Dark-Hard" src="https://github.com/user-attachments/assets/37ee77c9-db2a-4a35-93c4-2022d0f3aae8" />
